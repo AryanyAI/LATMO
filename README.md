@@ -1,4 +1,4 @@
-##LATMO is an AI_AGENT which act like Your Personal Assisstant
+## LATMO is an AI_AGENT which act like Your Personal Assisstant
 # Project Title
 
 # LATMO is an personal AI assistand which manages Your all tasks on Your Behalf....
