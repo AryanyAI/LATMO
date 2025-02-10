@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+# node modules
+node_modules/
 
 # Distribution / packaging
 .Python
@@ -17,7 +19,7 @@ eggs/
 lib/
 lib64/
 parts/
-sdist/
+sdist/ 
 var/
 wheels/
 share/python-wheels/
@@ -169,3 +171,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#essential files 
+# Ignore information.txt file
+information.txt
+
+local_chroma_db
+

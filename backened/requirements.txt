@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+sqlalchemy
+passlib[bcrypt]
+python-jose
+
+# FastAPI: Web framework for building APIs.
+# Uvicorn: ASGI server to run FastAPI applications.
+# python-multipart: Handles file uploads and multipart/form-data.
+# Pydantic: Data validation library that FastAPI uses for parsing requests and responses.
+# SQLAlchemy: ORM for interacting with databases in a Pythonic way.
+# passlib[bcrypt]: Secure password hashing, with bcrypt support for strong encryption.
+# python-jose: Used for working with JSON Web Tokens (JWTs) for secure authentication.
